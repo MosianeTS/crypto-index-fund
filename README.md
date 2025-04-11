@@ -106,6 +106,7 @@ A web application that allows users to create and manage cryptocurrency index fu
 ## Project Diagrams
 
 - **Architecture Diagram**: See `diagram.md` for a detailed system architecture overview.
+- Right click on diagram.md to preview the diagram
 
 ## Features
 
